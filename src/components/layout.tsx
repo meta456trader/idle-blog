@@ -1,7 +1,7 @@
 import * as React from 'react'
 import { Link } from 'gatsby'
 import {
-    container,
+    container1,
     heading,
     navLinks,
     navLinkItem,
