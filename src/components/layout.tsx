@@ -10,7 +10,7 @@ import {
 
 const Layout = ({ pageTitle, children }) => {
   return (
-    <div className="container1">
+    <div className="container mx-auto px-4">
       <nav>
         <ul className={navLinks}>
             <li className={navLinkItem}>
