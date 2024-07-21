@@ -14,7 +14,7 @@ const IndexPage = () => {
       <p>And this image was loaded from local file system.</p>
       <StaticImage
         alt="Clifford, a reddish-brown pitbull, posing on a couch and looking stoically at the camera"
-        src="../src/images/quirin.jpg"
+        src="../images/quirin.jpg"
       />
     </Layout>
   )
